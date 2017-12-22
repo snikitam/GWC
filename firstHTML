@@ -1,0 +1,48 @@
+<html>
+<head>
+  <title>My Interests</title>
+</head>
+  <h6> hello!</h1>
+<body>
+  <p style="color: LightPink;"><center>This is what I like to do</center></p>
+</body>
+<head>
+<style>
+body {
+    background-color: MistyRose;
+}
+div{
+	
+</style>
+</head>
+<ul>
+  <li>This</li>
+  <li>That</li>
+  <ul>
+    <li>More</li>
+    <li>and more</li>
+  </ul>
+</ul>
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+<ol>
+  <li>This</li>
+  <li> That</li>
+</ol>
+
+<table>
+<!heading for the table>
+  <tr>
+    <th>This</th>
+    <th>That</th>
+  </tr>
+    <td>That</td>
+  <td>This</td>
+</table>
+  
+<img src= https://upload.wikimedia.org/wikipedia/commons/5/53/Pictograms-nps-land-tennis-2.svg />
+</html>
